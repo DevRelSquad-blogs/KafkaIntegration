@@ -25,8 +25,8 @@ In this project, you'll learn how to set up and configure Apache Kafka with Spri
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/kafka-springboot-integration.git
-cd kafka-springboot-integration
+git clone git@github.com:DevRelSquad-blogs/KafkaIntegration.git
+cd KafkaIntegration
 ```
 
 ### Build the Project
